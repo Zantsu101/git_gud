@@ -712,3 +712,4 @@ these are some of the most useful skills you'll use in college projects, hackath
 don't worry about memorising every command. keep practising, check `git status` when you're confused, and remember that everyone starts somewhere.
 
 **happy coding, fys! 💜**
+ 
