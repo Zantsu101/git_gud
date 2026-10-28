@@ -43,4 +43,4 @@ If you've been banging your head against a puzzle in the `arena` for 20 minutes:
 ---
 
 **Summary:** Learn Python, open some PRs, help your peers, make mistakes, laugh at the bugs, and have a good time. Now go forth and git gud! 💻✨
-kattayan
+hello
